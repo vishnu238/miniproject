@@ -1,2 +1,2 @@
-file 1
-added new line
+file 1 
+user 2 edited line
